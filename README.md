@@ -1,1 +1,1 @@
-# cmustudent-reposiory
+# cmustudent-repository
